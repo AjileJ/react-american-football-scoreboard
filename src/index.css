@@ -32,20 +32,20 @@ button {
   padding: 1rem 2rem;
   margin: 0;
   text-decoration: none;
-  background: #414141;
-  color: #ffffff;
+  background: #041949c2;
+  color: black;
   font-family: inherit;
-  font-size: 1.6rem;
+  font-size: 2rem;
   cursor: pointer;
   text-align: center;
-  transition: background 250ms ease-in-out, transform 150ms ease;
+  transition: background 225ms ease-in-out, transform 130ms ease;
   -webkit-appearance: none;
   -moz-appearance: none;
 }
 
 button:hover,
 button:focus {
-  background: #a2272d;
+  background: orangered;
 }
 
 button:focus {
